@@ -1,5 +1,5 @@
 # Survey-Form
-##Mini-project
+## Mini-project
 
 This is the first project I did within the FreeCodeCamp Reponsive Web Design course. I used HTML and CSS to create a form for a web App. 
 These images below are screenshots of the webapp form:
